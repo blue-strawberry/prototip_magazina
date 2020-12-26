@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "1.jpg",
+      "name": "iPhone X",
+      "price": 27940,
+      "category": "iPhone"
+    },
+    {
+      "id": 2,
+      "image": "2.jpg",
+      "name": "Samsung S10 plus",
+      "price": 16000,
+      "category": "Samsung"
+    },
+    {
+      "id": 3,
+      "image": "3.jpg",
+      "name": "Nokia 10",
+      "price": 36990,
+      "category": "Nokia"
+    },
+    {
+      "id": 4,
+      "image": "4.jpg",
+      "name": "Huawei P10",
+      "price": 15000,
+      "category": "Huawei"
+    },
+    {
+      "id": 5,
+      "image": "5.jpg",
+      "name": "Samsung S9",
+      "price": 17800,
+      "category": "Samsung"
+    },
+    {
+      "id": 6,
+      "image": "6.jpg",
+      "name": "iPhone 11",
+      "price": 54990,
+      "category": "iPhone"
+    }
+  ]
+}
